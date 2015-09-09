@@ -3,10 +3,10 @@
 <channel>
         <title>sensory aesthetics</title>
         <description>sensory aesthetics - Joshua Walton</description>
-        <link>http://site.sensory.cc</link>
-        <atom:link href="http://site.sensory.cc/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 08 Sep 2015 22:46:05 -0700</lastBuildDate>
-        <pubDate>Tue, 08 Sep 2015 22:46:05 -0700</pubDate>
+        <link>site.sensory.cc</link>
+        <atom:link href="site.sensory.cc/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Tue, 08 Sep 2015 22:58:31 -0700</lastBuildDate>
+        <pubDate>Tue, 08 Sep 2015 22:58:31 -0700</pubDate>
         <ttl>60</ttl>
 
 
@@ -14,8 +14,8 @@
                 <title>Our first podcast</title>
                 <description>
 </description>
-                <link>http://site.sensory.cc/2015/09/08/our-first-podcast</link>
-                <guid>http://site.sensory.cc/2015/09/08/our-first-podcast</guid>
+                <link>site.sensory.cc/2015/09/08/our-first-podcast</link>
+                <guid>site.sensory.cc/2015/09/08/our-first-podcast</guid>
                 <pubDate>Tue, 08 Sep 2015 00:00:00 -0700</pubDate>
         </item>
 

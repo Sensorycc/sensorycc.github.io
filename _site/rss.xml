@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+        <title>sensory aesthetics</title>
+        <description>sensory aesthetics - Joshua Walton</description>
+        <link>http://site.sensory.cc</link>
+        <atom:link href="http://site.sensory.cc/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Tue, 08 Sep 2015 22:38:22 -0700</lastBuildDate>
+        <pubDate>Tue, 08 Sep 2015 22:38:22 -0700</pubDate>
+        <ttl>60</ttl>
+
+
+        <item>
+                <title>Our first podcast</title>
+                <description>
+</description>
+                <link>http://site.sensory.cc/2015/09/08/our-first-podcast</link>
+                <guid>http://site.sensory.cc/2015/09/08/our-first-podcast</guid>
+                <pubDate>Tue, 08 Sep 2015 00:00:00 -0700</pubDate>
+        </item>
+
+
+</channel>
+</rss>

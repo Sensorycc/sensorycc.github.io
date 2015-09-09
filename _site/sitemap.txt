@@ -1,0 +1,12 @@
+
+http://site.sensory.cc/archive.html
+http://site.sensory.cc/atom.xml
+http://site.sensory.cc/categories.html
+http://site.sensory.cc/pages/podcast/index.html
+http://site.sensory.cc/index.html
+http://site.sensory.cc/pages.html
+http://site.sensory.cc/rss.xml
+http://site.sensory.cc/sitemap.txt
+http://site.sensory.cc/tags.html
+
+http://site.sensory.cc/2015/09/08/our-first-podcast

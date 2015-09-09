@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>sensory aesthetics</title>
+ <link href="http://site.sensory.cc/atom.xml" rel="self"/>
+ <link href="http://site.sensory.cc"/>
+ <updated>2015-09-08T22:38:22-07:00</updated>
+ <id>http://site.sensory.cc</id>
+ <author>
+   <name>Joshua Walton</name>
+   <email>joshua@sensory.cc</email>
+ </author>
+
+ 
+ <entry>
+   <title>Our first podcast</title>
+   <link href="http://site.sensory.cc/2015/09/08/our-first-podcast"/>
+   <updated>2015-09-08T00:00:00-07:00</updated>
+   <id>http://site.sensory.cc/2015/09/08/our-first-podcast</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ 
+</feed>

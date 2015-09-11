@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>sensory aesthetics</title>
+		<description>description</description>
+		<link>site url</link>
+		<atom:link href="site url/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>About Sensory Aesthetics</title>
+				
+				
+					<description>Walter Elias Disney was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent...</description>
+				
+				<pubDate>Sun, 14 Dec 2014 17:00:00 -0800</pubDate>
+				<link>site url/about-us</link>
+				<guid isPermaLink="true">site url/about-us</guid>
+			</item>
+		
+			<item>
+				<title>Generative Zine Issue 001</title>
+				
+				
+					<description>Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was...</description>
+				
+				<pubDate>Fri, 18 Nov 1932 18:00:00 -0800</pubDate>
+				<link>site url/zine001</link>
+				<guid isPermaLink="true">site url/zine001</guid>
+			</item>
+		
+			<item>
+				<title>Designing Computation Podcast Episode 001</title>
+				
+				
+					<description>Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was...</description>
+				
+				<pubDate>Thu, 17 Nov 1932 17:00:00 -0800</pubDate>
+				<link>site url/podcast001</link>
+				<guid isPermaLink="true">site url/podcast001</guid>
+			</item>
+		
+	</channel>
+</rss>

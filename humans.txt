@@ -1,0 +1,102 @@
+HUMANS
+_______________________________________________________________________________
+
+Joshua Walton
+James Tichenor
+
+ROBOTS
+_______________________________________________________________________________
+
+https://github.com/sensorycc/
+
+
+TODO LIST
+_______________________________________________________________________________
+DONE * Create proper social media links
+* Add top menu bar (yuck - maybe no bootstrap)
+* Write about page
+* Make black github logo
+* Make instagram logo
+* Create mail chimp account
+* Create google analytics account
+DONE * Fix Stay in Touch text
+DONE * Delete current posts
+* Create and understand tag structure (zine, podcast, sensorycc)
+* fix dates and writing for everything
+* Create disqus account
+DONE * Create about this double wide image
+DONE * Create podcast images
+* Create favicon
+* Fix drafts section
+
+_______________________________________________________________________________
+
+Much of this work is supported by...https://github.com/vincentchan/mickey
+    __  _______________ __ ________  __
+   /  |/  /  _/ ____/ //_// ____/\ \/ /
+  / /|_/ // // /   / ,<  / __/    \  /
+ / /  / // // /___/ /| |/ /___    / /
+/_/  /_/___/\____/_/ |_/_____/   /_/
+
+The humans.txt file explains the technology, and graphic assets
+behind this site.
+
+_______________________________________________________________________________
+
+PEOPLE
+
+This Jekyll theme was hand-crafted by:
+
+Vincent Chan
+Interaction design, visual design, content, web development
+http://www.twitter.com/vincentchan
+
+_______________________________________________________________________________
+
+TECHNOLOGY
+
+Jekyll
+http://jekyllrb.com/
+
+jQuery
+http://jquery.com/
+
+imagesLoaded
+https://github.com/desandro/imagesloaded
+
+Sass
+http://sass-lang.com/
+
+SUIT CSS (styling methodology)
+https://suitcss.github.io/
+
+gulp.js
+http://gulpjs.com/
+
+Prism (syntax highlighter)
+http://prismjs.com/
+
+Browsersync
+http://www.browsersync.io/
+
+Github
+https://github.com/
+
+_______________________________________________________________________________
+
+GRAPHIC ASSETS
+
+Roboto (font)
+https://www.google.com/fonts/specimen/Roboto
+
+PT Sans (font)
+https://www.google.com/fonts/specimen/PT+Sans
+
+Source Serif Pro (font)
+https://www.google.com/fonts/specimen/Source+Serif+Pro
+
+Entypo (icons)
+http://www.entypo.com/
+
+Streamline (icons)
+http://www.streamlineicons.com/

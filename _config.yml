@@ -8,13 +8,14 @@ permalink:           /:title
 relative_permalinks: true
 
 # Setup
+production_url : http://site.sensory.cc
 #timezone:            "your timezone" # eg. Asia/Kathmandu
 locale:              "en_us" # eg. en_us
 name:                "sensory aesthetics"
 title:               "Sensory Aesthetics"
 tagline:             'Exploring the bounds of design and computation.'
 description:         'description'
-url:                 'http://site.sensory.cc'
+url:                 http://site.sensory.cc
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
